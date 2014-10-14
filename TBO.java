@@ -4,7 +4,7 @@ import java.util.*;
 public class TBO {
     
     private int[][] prod;
-    private int prodcount;
+    private int proddcount;
     private Vector<String> varname = new Vector<>();
     private Vector<String> constname = new Vector<>();
     private boolean tab[][][];
