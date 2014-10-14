@@ -14,7 +14,7 @@ public class TBO {
     private int lastLine;
     
     public TBO(){
-        lastLine=0;
+        lastLine=1;
     }
     
     public void readText() throws IOException{
